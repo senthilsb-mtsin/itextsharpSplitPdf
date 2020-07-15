@@ -1,5 +1,13 @@
 # itextsharpSplitPdf
 
+Utility Console Program to split PDF by giving the comma seperated page nos
+
+```shell
+Enter Original PDF Path : 
+Enter Page No to be extracted with comma separted : 
+```
+
+New file will be created in Ouput Folder 
 
 
 ### [iTextSharp][itext] consists of several dlls.
